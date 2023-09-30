@@ -1,0 +1,4 @@
+Numar max: 8
+ Numar min: 2
+ Suma: 27
+ Media aritmetica: 4.5
