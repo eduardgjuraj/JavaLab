@@ -27,6 +27,5 @@ public class main {
             System.out.print(p.toString() + "                " + p.Coordonate(p.a, p.b, p.c));
             System.out.println();
         }
-
     }
 }
