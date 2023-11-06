@@ -1,0 +1,32 @@
+[
+  {
+    "nume":"Ghinea",
+    "post":"sef",
+    "data_angajarii": [2013,10,3],
+    "salariu": 200
+  },
+  {
+    "nume":"Ion",
+    "post":"Fermier",
+    "data_angajarii": [2015, 12, 5],
+    "salariu": 2500
+  },
+  {
+    "nume":"Darius",
+    "post":"Programator",
+    "data_angajarii": [2019, 5, 7],
+    "salariu": 1500
+  },
+  {
+    "nume":"Nicu",
+    "post":"Cripto-influencer",
+    "data_angajarii": [2020, 6, 5],
+    "salariu": 2000
+  },
+  {
+    "nume":"Vlad",
+    "post":"Liber-ganditor",
+    "data_angajarii": [2023,1,2],
+    "salariu": 5000
+  }
+]
