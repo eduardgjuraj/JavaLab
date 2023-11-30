@@ -1,0 +1,67 @@
+[ [ "lab7.SetTobe", {
+  "producator" : "tobeProd5",
+  "pret" : 4800.0,
+  "tip_tobe" : "ACUSTICE",
+  "nr_tobe" : 4,
+  "nr_cinele" : 2
+} ], [ "lab7.Chitara", {
+  "producator" : "chitaraProd3",
+  "pret" : 1400.0,
+  "tip_chitara" : "CLASICA",
+  "nr_corzi" : 6
+} ], [ "lab7.SetTobe", {
+  "producator" : "tobeProd1",
+  "pret" : 6000.0,
+  "tip_tobe" : "ELECTRONICE",
+  "nr_tobe" : 5,
+  "nr_cinele" : 3
+} ], [ "lab7.Chitara", {
+  "producator" : "chitaraProd6",
+  "pret" : 6000.0,
+  "tip_chitara" : "ELECTRICA",
+  "nr_corzi" : 7
+} ], [ "lab7.Chitara", {
+  "producator" : "chitaraProd5",
+  "pret" : 7500.0,
+  "tip_chitara" : "ACUSTICA",
+  "nr_corzi" : 6
+} ], [ "lab7.SetTobe", {
+  "producator" : "tobeProd2",
+  "pret" : 1800.0,
+  "tip_tobe" : "ACUSTICE",
+  "nr_tobe" : 4,
+  "nr_cinele" : 2
+} ], [ "lab7.SetTobe", {
+  "producator" : "tobeProd4",
+  "pret" : 8000.0,
+  "tip_tobe" : "ELECTRONICE",
+  "nr_tobe" : 5,
+  "nr_cinele" : 3
+} ], [ "lab7.SetTobe", {
+  "producator" : "tobeProd3",
+  "pret" : 5500.0,
+  "tip_tobe" : "ELECTRONICE",
+  "nr_tobe" : 6,
+  "nr_cinele" : 4
+} ], [ "lab7.Chitara", {
+  "producator" : "chitaraProd1",
+  "pret" : 1200.0,
+  "tip_chitara" : "ELECTRICA",
+  "nr_corzi" : 6
+} ], [ "lab7.Chitara", {
+  "producator" : "chitaraProd4",
+  "pret" : 1200.0,
+  "tip_chitara" : "ELECTRICA",
+  "nr_corzi" : 6
+} ], [ "lab7.Chitara", {
+  "producator" : "chitaraProd2",
+  "pret" : 7500.0,
+  "tip_chitara" : "ACUSTICA",
+  "nr_corzi" : 6
+} ], [ "lab7.SetTobe", {
+  "producator" : "tobeProd6",
+  "pret" : 4500.0,
+  "tip_tobe" : "ACUSTICE",
+  "nr_tobe" : 5,
+  "nr_cinele" : 3
+} ] ]
